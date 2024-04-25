@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "germancompanies-403612",
+  "private_key_id": "599ae92083a82d10a0ca04482f10f4f15a686f7e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCp9qlzMNe+9WVq\nDvmzMDuQ/vI9O+dcyefM7AVHMGTXISbg/WeBniFFnUzgVkcGMAo9NNokqC4sEWr8\nWqsGaMAzKlp0Mq1tI/ppkbpjHV2H2dHUqONj18nmcRVWJvXe2WQM73w/WPIX3zZl\n3kMfjO/S/ioN4KkJTIWkwglk7Y14Rs7ceQkTRpUw822+zZyaAq+T5tZD7sdbTqHw\npcC+fTOtRAWIqBXkHiDLuHT8FjRiOARbTbmwZo3MzTnv2UGvkJJ/zmfBEz3g2xdr\nWStO3xzcfg8xrkhZoos6pcU9AcRHqBLIldjtW8QEOFgF5SrsD264r3dSevuYw7eW\nhSojKsTBAgMBAAECggEAAt6dxMqd0eUNxckj8SEO2Gddiqggw2HLTpvriOSpxzIR\nmHnezgLv999shVsfjtyvx5HFXxoR0X+nyUP0oEKTgCmmZlDWucGCQFcMCRFdW2ZT\nkx4Y3L4vc/sTy6UTwKP1+vvuIpmrWLjVj8m9Y2J7SBovdpWE9Rm8Jeh6xR/3pACz\nAEwe7LBuYG5Dk2ftZKkfHneMRcdwuFHuV8a/fYf1vtkf5GtWpE86KgnTi+qXJpvs\nUT/GC+FZx9WObVralYIKi3soWKKzqNpb2DRfiULtET+KntmMA0SdyUdUeAfyDe27\ngiwnMTF353gbsCsCaeeQeI9rjkfiiiNYo6Nc8wyVuQKBgQDXZ/78i67YH3FkhQpc\n2t/SBmnroAdYVj1BneNAXqMCGA6Z6SxGA+BrX49znljYjE5+kKCjU/OqmS6YQmvS\n94S1WWIWtOq1/g87eecRfLAKXd/SQ2Tlho3u2sHot5oP5k4z0q91e1Vrq4imvJtQ\noRaGbLta+V7hDebWhKiF92lWnQKBgQDJ/lbUszzMfF0h8R1pBikMJrm1d6o9N5XK\n0Q+2y4/c8w4mNG0bQ980QxiPIj+ZVMvPUwq4RxJfg9LbxPYQllq+1jXBa7Lue0In\nd7MsTHdpchl3uLAkSNAdnQ7WTnoT9gycd2yb0TE9aEzdhyGxXK0qb9buuUDudoeP\nDmQVGFA7dQKBgQC9NDav442vfmbecVF54DLqywFsmwL4n79sjF+ZIccyxqjEniBq\nW2tbRPO/DZ5ij1M/LpA7BjmoZqabzPPiudESbbGP2lezhbYheuDw5kHGyVAY42OT\njE3NOM9MN0EWqCeWs3+0xKFyUphURKRz/RrI9mbW8OVa7xgM4zcXfQtErQKBgQC7\no9llnVtNWfnqHeIEPgTDlPXO7Wrnk0tDLRI77L2nsuHh+7GfMl2WXv3heR87gNoT\nrkC3Ds6yi/LE1SMAJawGu1cUZsfBYh8CKt/2ttH20ld2L8rw6fLqj4vI6P3erSLp\n9saduKbVNJ6y62URLdZvJZW0DcOTwegLrIKsVfmyQQKBgGp3SxJrdP52xtl8Ldva\nPf73XmV4PufmqaidJwg1pON8tzxM36bQUVngpcJe3jFRDorjA+WpDDo/O7HBMh2L\n+dLsWKkbbAhjwMFoD3tVBkfC280Gow5pefRl5Pbe8FjKqn0XuDQEKhHJKiP1w1Lo\nhb4HA2OVCMscKa2q2zWW8pMW\n-----END PRIVATE KEY-----\n",
+  "client_email": "germancompanies@germancompanies-403612.iam.gserviceaccount.com",
+  "client_id": "116157559649941038452",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/germancompanies%40germancompanies-403612.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
